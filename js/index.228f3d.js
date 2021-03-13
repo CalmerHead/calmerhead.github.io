@@ -21,6 +21,6 @@ if(!window.HTMLPictureElement){$(window).resize(r);r();}
 initMenu($('#m1')[0]);
 initMenu($('#m2')[0]);
 initMenu($('#m3')[0]);
-ldsrc('.js1');ldsrcset('.js21 source');ldsrc('.js2');ldsrcset('.js22 source');ldsrc('.js3');ldsrcset('.js23 source');$('.c26').Stickyfill();
+ldsrc('.js1');ldsrcset('.js16 source');ldsrc('.js2');ldsrcset('.js17 source');ldsrc('.js3');ldsrcset('.js18 source');$('.c24').Stickyfill();
 
 });
